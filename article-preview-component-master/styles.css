@@ -124,9 +124,10 @@ h2 {
     text-align: center;
 }
 
+/*
 .dropdown:hover .dropdown-content {
     display: block;
-}
+}*/
 
 a img {
     width: 2rem;
